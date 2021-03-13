@@ -40,5 +40,7 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": "git@github.com:eduardoaraujogomes/desafio01-trilha-react.git",
+  "author": "Eduardo de Araújo <eduardoaraujogf@gmail.com>"
 }
