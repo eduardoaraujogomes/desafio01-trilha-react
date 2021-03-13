@@ -1,3 +1,3 @@
 # desafio01-trilha-react
 
-![](https://imgur.com/PvDwGP8)
+![](https://i.imgur.com/PvDwGP8.gif)
