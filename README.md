@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/PvDwGP8.gif)
 
 
-This is the first project of the fronte-end developer course for the RocketSeat Ignite trilha ReactJS class of 2021.
+This is the first project of the fronte-end developer course for the Rocketseat Ignite trilha ReactJS class of 2021.
 
 ## What I have done in the project / o que eu fiz no projeto.
 
